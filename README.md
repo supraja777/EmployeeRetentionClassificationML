@@ -1,3 +1,5 @@
+                                Predicting Employee Retention
+
 This repository contains a Python notebook aimed at predicting employee retention within a Human Resources department. The notebook is structured into several tasks, each focusing on different aspects of the problem, including data visualization, data cleaning, model training, and evaluation.
 
 The goal is to predict employee retention using a dataset provided.We perform exploratory data analysis (EDA) by visualizing the dataset. We inspect features, handle missing data, and analyze various aspects of employee data to gain insights using sklearn, pandas, numpy and seaborn libraries.
